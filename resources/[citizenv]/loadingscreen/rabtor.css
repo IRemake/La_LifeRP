@@ -25,8 +25,21 @@ margin-left: 3px;margin-top: 0px;}
 
 .fix h2, .fix h3 { font-family:  BankGothic;font-size:  40px;margin: 0px;color: #FFF;}
 
+.loadbar
+{
+    width: 100%;
+    background-color: rgba(140, 140, 140, .9);
+    height: 20px;
+    margin-left: 2px;
+    margin-right: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+}
 
-.scroll
+#myBar
 {
     width: 10%;
     background-color: #eee;
